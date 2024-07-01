@@ -1,0 +1,4 @@
+Bundle-Name: user-rest-web
+Bundle-SymbolicName: user.rest.web
+Bundle-Version: 1.0.0
+Export-Package: user.rest.web.constants
